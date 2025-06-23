@@ -5,13 +5,13 @@ This repository includes the implementation of the method DML-IL proposed in the
 ## Dependencies
 The main dependencies of this codebased include:
 
-- Pytorch: '2.4.1'
+- Pytorch: 2.4.1
 
-- stable_baselines3: '2.3.2'
+- stable_baselines3: 2.3.2
 
 - Mujoco: 210
 
-- gymnasium: '0.29.1'
+- gymnasium: 0.29.1
 
 Our Cuda version is 11.8 with Python 3.8
 
