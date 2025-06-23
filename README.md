@@ -4,13 +4,13 @@ This repository includes the implementation of the method DML-IL proposed in the
 
 ## Dependencies
 
-Pytorch
+- Pytorch
 
-stable_baselines3
+- stable_baselines3
 
-Mujoco210
+- Mujoco210
 
-gymnasium
+- gymnasium
 
 ## Basic Usage
 
