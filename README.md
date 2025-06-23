@@ -3,14 +3,17 @@
 This repository includes the implementation of the method DML-IL proposed in the paper "A Unifying Framework for Causal Imitation Learning with Hidden Confounders".
 
 ## Dependencies
+The main dependencies of this codebased include:
 
-- Pytorch
+- Pytorch: '2.4.1'
 
-- stable_baselines3
+- stable_baselines3: '2.3.2'
 
-- Mujoco210
+- Mujoco: 210
 
-- gymnasium
+- gymnasium: '0.29.1'
+
+Our Cuda version is 11.8 with Python 3.8
 
 ## Basic Usage
 
